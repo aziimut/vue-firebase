@@ -12,12 +12,12 @@ export default {
                 youtube_playlist_id: 'fsgdhjfkkfllb',
                 parts: [
                     {
-                        id: 'dfgdfgdfge',
+                        id: 'dfgdfgdfgecff',
                         title: 'Kapitel 1',
                         youtube_id: 'asdfasdfasdfy'
                     },
                     {
-                        id: 'dfgdfgdfge',
+                        id: 'dfgdfgdfgejfgr',
                         title: 'Kapitel 2',
                         youtube_id: 'asdfasdfasdfi'
                     },
